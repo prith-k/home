@@ -8,20 +8,20 @@ import './UpcomingShows.css';
 const UpcomingShows = () => {
   const shows = [
     {
-      date: 'March 18–28, 2026',
-      venue: 'Pittsburgh Fringe Festival',
-      location: 'Pittsburgh, PA',
-      link: 'https://pittsburghfringe.org/events/gulp/',
+      date: 'April 24th, 2026',
+      venue: 'Flipside Theater',
+      location: 'Superior, CO',
+      link: 'https://events.humanitix.com/gulp-absurd-comedy-by-prith-khalsa-4-24/tickets',
       description: 'GULP!',
     },
     {
-      date: 'May 12–24, 2026',
+      date: 'May 14–24, 2026',
       venue: 'San Diego Fringe Festival',
       location: 'San Diego, CA',
       description: 'GULP! — Ticket link coming soon.',
     },
     {
-      date: 'June 3–7, 2026',
+      date: 'June 4–7, 2026',
       venue: 'Denver Fringe Festival',
       location: 'Denver, CO',
       description: 'GULP! — Ticket link coming soon.',
@@ -30,13 +30,15 @@ const UpcomingShows = () => {
       date: 'June 11–28, 2026',
       venue: 'Hollywood Fringe Festival',
       location: 'Los Angeles, CA',
-      description: 'GULP! — Ticket link coming soon.',
+      link: 'https://www.hollywoodfringe.org/projects/13318?tab=tickets',
+      description: 'GULP! at the Broadwater, various times',
     },
     {
       date: 'August 7–31, 2026',
       venue: 'Edinburgh Fringe Festival',
       location: 'Edinburgh, UK',
-      description: 'GULP!',
+      link: 'https://www.edfringe.com/tickets/whats-on/gulp',
+      description: 'GULP! at Assembly Roxy, Snug Bar, 21:10',
     },
   ];
 
