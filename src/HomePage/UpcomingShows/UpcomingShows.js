@@ -38,7 +38,7 @@ const UpcomingShows = () => {
       venue: 'Edinburgh Fringe Festival',
       location: 'Edinburgh, UK',
       link: 'https://www.edfringe.com/tickets/whats-on/gulp',
-      description: 'GULP! at Assembly Roxy, Snug Bar, 21:10',
+      description: 'GULP! at Assembly Roxy, Snug Bar, 12:10',
     },
   ];
 

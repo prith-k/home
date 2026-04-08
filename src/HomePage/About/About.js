@@ -32,9 +32,6 @@ const About = () => {
           <p>
           Prith is a clown, improviser, and absurdist comedian currently residing in Colorado, USA. He has created and performed ensemble and individual work in various theaters across the US. His style is informed by years of living in campgrounds entertaining people with his body around campfires. His only goal is giving you a night you will remember forever.
           </p>
-          <p> 
-          As well as a theater maker he is also a pretty good rock climber, and a pretty good data engineer. He is always happy to talk about either
-          </p>
         </div>
        
         <div className="line" />
