@@ -18,7 +18,8 @@ const UpcomingShows = () => {
       date: 'May 14–24, 2026',
       venue: 'San Diego Fringe Festival',
       location: 'San Diego, CA',
-      description: 'GULP! — Ticket link coming soon.',
+      link: 'https://sdfringe.org/events/gulp/',
+      description: 'New Destiny - Lincoln Park',
     },
     {
       date: 'June 4–7, 2026',
@@ -31,7 +32,7 @@ const UpcomingShows = () => {
       venue: 'Hollywood Fringe Festival',
       location: 'Los Angeles, CA',
       link: 'https://www.hollywoodfringe.org/projects/13318?tab=tickets',
-      description: 'GULP! at the Broadwater, various times',
+      description: 'GULP! at the Broadwater, Studio',
     },
     {
       date: 'August 7–31, 2026',
