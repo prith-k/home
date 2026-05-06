@@ -8,13 +8,6 @@ import './UpcomingShows.css';
 const UpcomingShows = () => {
   const shows = [
     {
-      date: 'April 24th, 2026',
-      venue: 'Flipside Theater',
-      location: 'Superior, CO',
-      link: 'https://events.humanitix.com/gulp-absurd-comedy-by-prith-khalsa-4-24/tickets',
-      description: 'GULP!',
-    },
-    {
       date: 'May 14–24, 2026',
       venue: 'San Diego Fringe Festival',
       location: 'San Diego, CA',
@@ -25,14 +18,15 @@ const UpcomingShows = () => {
       date: 'June 4–7, 2026',
       venue: 'Denver Fringe Festival',
       location: 'Denver, CO',
-      description: 'GULP! — Ticket link coming soon.',
+      link: 'https://denverfringe.org/shows/gulp/',
+      description: 'Rise Comedy, The Hideaway ',
     },
     {
       date: 'June 11–28, 2026',
       venue: 'Hollywood Fringe Festival',
       location: 'Los Angeles, CA',
       link: 'https://www.hollywoodfringe.org/projects/13318?tab=tickets',
-      description: 'GULP! at the Broadwater, Studio',
+      description: 'The Broadwater, The Studio',
     },
     {
       date: 'August 7–31, 2026',
