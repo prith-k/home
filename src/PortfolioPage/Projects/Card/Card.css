@@ -61,6 +61,7 @@ background-color:#feb43e;
     left: -8px;
     right: 8px;
     bottom: 10px;
+    pointer-events: none;
     -webkit-transition: all 0.2s ease-in;
        -moz-transition: all 0.2s ease-in;
         -ms-transition: all 0.2s ease-in;

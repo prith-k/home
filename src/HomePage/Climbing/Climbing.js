@@ -21,17 +21,16 @@ const Climbing = () => {
       <div className="climbing-content">
         <div className="bio-entry card-border climbing-bio">
           <p>
-            I've been climbing since 2014. I've done some stuff I'm pretty proud of. IDK why you might want to know, but I put some notabale ascents that have some good photos here.
+            I've been climbing since 2014. I've done some stuff I'm pretty proud of. IDK why you might want to know, but here are some photos and ticks.
           </p>
         </div>
         <div className="bio-entry card-border climbing-extra">
-          <h2>Some other memorable ones</h2>
-          {/* EDIT: List achievements, areas, or links (Mountain Project, Instagram, etc.) */}
+          <h2>Routes</h2>
           <p>
           Sport: A Steep Climb Named Desire 5.14a, Rouge 14a, Nephson 13c (3rd go)
           </p>
           <p>
-          Trad: Stingray 5.13d, Home on the Range 5.13d, Deadline 5.13d,The Hurricane Crack 5.13c (2nd go), Learning to Fly 5.13b (onsight),Tanuki 5.13 (2nd go)
+          Trad: China Doll 5.14a R, Musta' Been High 5.13c R, Stingray 5.13d, Home on the Range 5.13d, Deadline 5.13d, Hurricane Crack 5.13c (2nd go), Final Frontier 13a/b, Air Sweden 13b R (2nd go), Learning to Fly 5.13b (onsight),Tanuki 5.13 (2nd go)
           </p>
         </div>
       </div>

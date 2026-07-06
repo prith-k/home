@@ -8,27 +8,6 @@ import './UpcomingShows.css';
 const UpcomingShows = () => {
   const shows = [
     {
-      date: 'May 14–24, 2026',
-      venue: 'San Diego Fringe Festival',
-      location: 'San Diego, CA',
-      link: 'https://sdfringe.org/events/gulp/',
-      description: 'New Destiny - Lincoln Park',
-    },
-    {
-      date: 'June 4–7, 2026',
-      venue: 'Denver Fringe Festival',
-      location: 'Denver, CO',
-      link: 'https://denverfringe.org/shows/gulp/',
-      description: 'Rise Comedy, The Hideaway ',
-    },
-    {
-      date: 'June 11–28, 2026',
-      venue: 'Hollywood Fringe Festival',
-      location: 'Los Angeles, CA',
-      link: 'https://www.hollywoodfringe.org/projects/13318?tab=tickets',
-      description: 'The Broadwater, The Studio',
-    },
-    {
       date: 'August 7–31, 2026',
       venue: 'Edinburgh Fringe Festival',
       location: 'Edinburgh, UK',
